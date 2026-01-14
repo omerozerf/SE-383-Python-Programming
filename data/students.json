@@ -13,11 +13,14 @@
             ],
             "TEst": [
                 32
+            ],
+            "dadwada": [
+                22
             ]
         },
         "absence_count": 6,
         "created_at": "2026-01-14T21:39:28.703050",
-        "updated_at": "2026-01-14T22:02:22.923735"
+        "updated_at": "2026-01-14T22:15:27.803558"
     },
     {
         "id": "d38200d2-5bb5-4520-af43-a755e96b7d8b",
@@ -46,5 +49,1799 @@
         "absence_count": 4,
         "created_at": "2026-01-14T21:39:28.705233",
         "updated_at": "2026-01-14T21:53:30.247535"
+    },
+    {
+        "id": "977f7106-766e-4f66-a865-ecdec460f02c",
+        "name": "Berk",
+        "surname": "Demir",
+        "class_name": "12-B",
+        "grades": {
+            "Physics": [
+                51,
+                91
+            ],
+            "English": [
+                98,
+                46
+            ],
+            "Literature": [
+                40,
+                53
+            ],
+            "Biology": [
+                46,
+                56,
+                78,
+                63
+            ]
+        },
+        "absence_count": 6,
+        "created_at": "2026-01-14T22:17:30.949201",
+        "updated_at": "2026-01-14T22:17:30.949210"
+    },
+    {
+        "id": "c42d3ca1-0b10-4d13-907f-20b1abf77c6a",
+        "name": "Emre",
+        "surname": "Arslan",
+        "class_name": "12-A",
+        "grades": {
+            "English": [
+                73,
+                63
+            ],
+            "Biology": [
+                82,
+                98,
+                46
+            ],
+            "Physics": [
+                90,
+                94,
+                98,
+                84
+            ],
+            "History": [
+                50,
+                75,
+                72
+            ],
+            "Literature": [
+                90,
+                55,
+                46,
+                74
+            ],
+            "Math": [
+                47,
+                81,
+                74,
+                52
+            ]
+        },
+        "absence_count": 4,
+        "created_at": "2026-01-14T22:17:30.949235",
+        "updated_at": "2026-01-14T22:17:30.949237"
+    },
+    {
+        "id": "27c79845-2c52-420f-abf2-3fb9d099cb4e",
+        "name": "Ayşe",
+        "surname": "Şimşek",
+        "class_name": "10-A",
+        "grades": {
+            "Biology": [
+                96,
+                93,
+                90,
+                79
+            ],
+            "Math": [
+                44,
+                50,
+                98
+            ],
+            "Geography": [
+                94,
+                95
+            ],
+            "English": [
+                69,
+                82,
+                97
+            ]
+        },
+        "absence_count": 0,
+        "created_at": "2026-01-14T22:17:30.949250",
+        "updated_at": "2026-01-14T22:17:30.949251"
+    },
+    {
+        "id": "cc0ee8b5-b04a-4178-8929-5212428e9d7b",
+        "name": "Ahmet",
+        "surname": "Taş",
+        "class_name": "10-A",
+        "grades": {
+            "Literature": [
+                84,
+                57,
+                88
+            ],
+            "Math": [
+                49,
+                47,
+                95,
+                88
+            ],
+            "Physics": [
+                43,
+                97
+            ],
+            "English": [
+                71,
+                85,
+                81
+            ],
+            "Chemistry": [
+                54,
+                91,
+                64,
+                57
+            ],
+            "Geography": [
+                91,
+                85,
+                66
+            ]
+        },
+        "absence_count": 11,
+        "created_at": "2026-01-14T22:17:30.949264",
+        "updated_at": "2026-01-14T22:17:30.949265"
+    },
+    {
+        "id": "59f60870-d1fd-491d-b5d1-5cd7b9dd1ab8",
+        "name": "Zeynep",
+        "surname": "Güneş",
+        "class_name": "10-B",
+        "grades": {
+            "Geography": [
+                85,
+                99,
+                71
+            ],
+            "Chemistry": [
+                45,
+                71,
+                77,
+                79
+            ],
+            "History": [
+                91,
+                83
+            ],
+            "Physics": [
+                47,
+                94
+            ],
+            "Math": [
+                65,
+                83
+            ]
+        },
+        "absence_count": 11,
+        "created_at": "2026-01-14T22:17:30.949276",
+        "updated_at": "2026-01-14T22:17:30.949277"
+    },
+    {
+        "id": "80f4a359-9c57-4374-a4c1-02bc9b687d19",
+        "name": "Barış",
+        "surname": "Erdoğan",
+        "class_name": "12-B",
+        "grades": {
+            "Physics": [
+                58,
+                97
+            ],
+            "English": [
+                46,
+                77,
+                79
+            ],
+            "Literature": [
+                62,
+                90,
+                51,
+                52
+            ],
+            "Math": [
+                99,
+                42
+            ]
+        },
+        "absence_count": 10,
+        "created_at": "2026-01-14T22:17:30.949286",
+        "updated_at": "2026-01-14T22:17:30.949288"
+    },
+    {
+        "id": "6be72079-706a-4ec0-9a58-7dfcc3f8d32f",
+        "name": "Mehmet",
+        "surname": "Kara",
+        "class_name": "12-C",
+        "grades": {
+            "Physics": [
+                74,
+                52,
+                76
+            ],
+            "Literature": [
+                87,
+                59,
+                93,
+                80
+            ],
+            "English": [
+                82,
+                48
+            ],
+            "Math": [
+                63,
+                53
+            ],
+            "Chemistry": [
+                50,
+                65,
+                79
+            ],
+            "Geography": [
+                52,
+                80
+            ]
+        },
+        "absence_count": 5,
+        "created_at": "2026-01-14T22:17:30.949299",
+        "updated_at": "2026-01-14T22:17:30.949300"
+    },
+    {
+        "id": "83e3e1b7-bd59-487d-a2af-1bdbbfc698c1",
+        "name": "Yasin",
+        "surname": "Yalçın",
+        "class_name": "9-A",
+        "grades": {
+            "Math": [
+                61,
+                63,
+                80
+            ],
+            "Geography": [
+                82,
+                57,
+                73,
+                98
+            ],
+            "History": [
+                85,
+                65,
+                72,
+                41
+            ],
+            "English": [
+                60,
+                95,
+                67
+            ],
+            "Chemistry": [
+                44,
+                76,
+                99,
+                81
+            ]
+        },
+        "absence_count": 8,
+        "created_at": "2026-01-14T22:17:30.949311",
+        "updated_at": "2026-01-14T22:17:30.949312"
+    },
+    {
+        "id": "f321fc6f-0ca9-4c7a-acc1-6087de783a8b",
+        "name": "Gökhan",
+        "surname": "Kurt",
+        "class_name": "9-B",
+        "grades": {
+            "Biology": [
+                61,
+                70,
+                91
+            ],
+            "Geography": [
+                73,
+                96,
+                90
+            ],
+            "Math": [
+                58,
+                56
+            ],
+            "English": [
+                58,
+                43
+            ],
+            "History": [
+                54,
+                66,
+                46
+            ]
+        },
+        "absence_count": 1,
+        "created_at": "2026-01-14T22:17:30.949322",
+        "updated_at": "2026-01-14T22:17:30.949323"
+    },
+    {
+        "id": "1865aca5-7a47-432d-8494-fe54ee583cff",
+        "name": "Yasin",
+        "surname": "Kara",
+        "class_name": "11-A",
+        "grades": {
+            "English": [
+                52,
+                85
+            ],
+            "Physics": [
+                68,
+                52,
+                66
+            ],
+            "Literature": [
+                75,
+                58,
+                53,
+                55
+            ],
+            "Biology": [
+                65,
+                52,
+                60,
+                88
+            ]
+        },
+        "absence_count": 5,
+        "created_at": "2026-01-14T22:17:30.949333",
+        "updated_at": "2026-01-14T22:17:30.949334"
+    },
+    {
+        "id": "2fb6cbd1-8e3f-4ada-8e5e-91691c04c220",
+        "name": "Burak",
+        "surname": "Çelik",
+        "class_name": "12-C",
+        "grades": {
+            "Biology": [
+                74,
+                68,
+                51,
+                80
+            ],
+            "Chemistry": [
+                71,
+                63,
+                42,
+                81
+            ],
+            "Physics": [
+                85,
+                53
+            ],
+            "History": [
+                84,
+                42,
+                57,
+                48
+            ],
+            "Literature": [
+                59,
+                100
+            ]
+        },
+        "absence_count": 1,
+        "created_at": "2026-01-14T22:17:30.949343",
+        "updated_at": "2026-01-14T22:17:30.949344"
+    },
+    {
+        "id": "dfeb4bba-8925-4302-9db5-c234c96826c9",
+        "name": "Yasin",
+        "surname": "Arslan",
+        "class_name": "12-A",
+        "grades": {
+            "Biology": [
+                50,
+                94
+            ],
+            "Geography": [
+                95,
+                74
+            ],
+            "English": [
+                44,
+                91,
+                73
+            ],
+            "Chemistry": [
+                48,
+                40
+            ],
+            "History": [
+                96,
+                79,
+                88
+            ]
+        },
+        "absence_count": 5,
+        "created_at": "2026-01-14T22:17:30.949354",
+        "updated_at": "2026-01-14T22:17:30.949355"
+    },
+    {
+        "id": "54d4b8b2-3a3a-4219-9ada-b13e45c3e9b8",
+        "name": "Ahmet",
+        "surname": "Koç",
+        "class_name": "9-B",
+        "grades": {
+            "Math": [
+                78,
+                99
+            ],
+            "Physics": [
+                94,
+                43
+            ],
+            "History": [
+                61,
+                54,
+                48,
+                66
+            ],
+            "English": [
+                40,
+                89
+            ],
+            "Literature": [
+                86,
+                96,
+                45
+            ],
+            "Chemistry": [
+                74,
+                77
+            ]
+        },
+        "absence_count": 9,
+        "created_at": "2026-01-14T22:17:30.949366",
+        "updated_at": "2026-01-14T22:17:30.949367"
+    },
+    {
+        "id": "e7af665f-cb8d-431f-89f1-808a7f184a41",
+        "name": "Serkan",
+        "surname": "Doğan",
+        "class_name": "10-B",
+        "grades": {
+            "Geography": [
+                87,
+                98,
+                77,
+                57
+            ],
+            "Chemistry": [
+                56,
+                65
+            ],
+            "Physics": [
+                89,
+                55,
+                72
+            ],
+            "Math": [
+                91,
+                41,
+                51
+            ],
+            "Literature": [
+                61,
+                72,
+                78,
+                90
+            ],
+            "History": [
+                46,
+                89,
+                60,
+                47
+            ]
+        },
+        "absence_count": 11,
+        "created_at": "2026-01-14T22:17:30.949378",
+        "updated_at": "2026-01-14T22:17:30.949379"
+    },
+    {
+        "id": "c9472e64-7842-4633-8b4f-81c404973320",
+        "name": "Barış",
+        "surname": "Doğan",
+        "class_name": "9-A",
+        "grades": {
+            "Biology": [
+                81,
+                64,
+                81
+            ],
+            "Physics": [
+                41,
+                61
+            ],
+            "English": [
+                58,
+                90,
+                52
+            ],
+            "History": [
+                50,
+                61,
+                87,
+                53
+            ]
+        },
+        "absence_count": 4,
+        "created_at": "2026-01-14T22:17:30.949388",
+        "updated_at": "2026-01-14T22:17:30.949388"
+    },
+    {
+        "id": "3493214d-4c60-406a-b57c-dc4150b2c9e4",
+        "name": "Tolga",
+        "surname": "Güler",
+        "class_name": "10-A",
+        "grades": {
+            "Biology": [
+                72,
+                40,
+                42,
+                52
+            ],
+            "History": [
+                75,
+                80,
+                61
+            ],
+            "Literature": [
+                72,
+                52,
+                74,
+                85
+            ],
+            "English": [
+                80,
+                87,
+                80,
+                76
+            ],
+            "Geography": [
+                76,
+                58,
+                58
+            ],
+            "Math": [
+                100,
+                99
+            ]
+        },
+        "absence_count": 13,
+        "created_at": "2026-01-14T22:17:30.949399",
+        "updated_at": "2026-01-14T22:17:30.949400"
+    },
+    {
+        "id": "4c4ac323-6c90-4100-bf98-147ecd5dab8c",
+        "name": "Oğuz",
+        "surname": "Yıldırım",
+        "class_name": "11-A",
+        "grades": {
+            "Geography": [
+                92,
+                49
+            ],
+            "Biology": [
+                84,
+                84
+            ],
+            "Physics": [
+                54,
+                46
+            ],
+            "Chemistry": [
+                56,
+                58
+            ],
+            "Math": [
+                97,
+                80
+            ],
+            "History": [
+                79,
+                75
+            ]
+        },
+        "absence_count": 0,
+        "created_at": "2026-01-14T22:17:30.949411",
+        "updated_at": "2026-01-14T22:17:30.949412"
+    },
+    {
+        "id": "24c62c90-711b-49f3-9a30-57fcdca5445f",
+        "name": "Burak",
+        "surname": "Demir",
+        "class_name": "9-A",
+        "grades": {
+            "Physics": [
+                68,
+                79
+            ],
+            "Biology": [
+                40,
+                78,
+                82,
+                57
+            ],
+            "English": [
+                44,
+                50
+            ],
+            "Chemistry": [
+                97,
+                81,
+                57
+            ],
+            "Literature": [
+                69,
+                83,
+                42
+            ]
+        },
+        "absence_count": 2,
+        "created_at": "2026-01-14T22:17:30.949422",
+        "updated_at": "2026-01-14T22:17:30.949422"
+    },
+    {
+        "id": "1e04f265-cb0a-4194-b352-d41f11f47b5a",
+        "name": "Emre",
+        "surname": "Sarı",
+        "class_name": "9-B",
+        "grades": {
+            "English": [
+                72,
+                51
+            ],
+            "Math": [
+                59,
+                89
+            ],
+            "Literature": [
+                50,
+                69,
+                87
+            ],
+            "Geography": [
+                90,
+                85
+            ]
+        },
+        "absence_count": 8,
+        "created_at": "2026-01-14T22:17:30.949431",
+        "updated_at": "2026-01-14T22:17:30.949432"
+    },
+    {
+        "id": "7439066a-f3dd-4d53-ab16-e03fc145dca2",
+        "name": "Barış",
+        "surname": "Taş",
+        "class_name": "9-A",
+        "grades": {
+            "Physics": [
+                91,
+                75,
+                76,
+                93
+            ],
+            "Biology": [
+                59,
+                47,
+                62,
+                86
+            ],
+            "History": [
+                79,
+                77,
+                73
+            ],
+            "Chemistry": [
+                60,
+                56,
+                49
+            ],
+            "Literature": [
+                78,
+                51,
+                40,
+                86
+            ],
+            "English": [
+                45,
+                99,
+                66,
+                84
+            ]
+        },
+        "absence_count": 8,
+        "created_at": "2026-01-14T22:17:30.949443",
+        "updated_at": "2026-01-14T22:17:30.949444"
+    },
+    {
+        "id": "07a8f719-228a-4f74-bc8c-6be13aac3f9f",
+        "name": "Zeynep",
+        "surname": "Doğan",
+        "class_name": "12-B",
+        "grades": {
+            "Geography": [
+                60,
+                51
+            ],
+            "History": [
+                83,
+                50,
+                73
+            ],
+            "Literature": [
+                75,
+                77,
+                69
+            ],
+            "Biology": [
+                46,
+                99
+            ],
+            "English": [
+                48,
+                83,
+                83,
+                58
+            ],
+            "Physics": [
+                99,
+                75,
+                67
+            ]
+        },
+        "absence_count": 5,
+        "created_at": "2026-01-14T22:17:30.949454",
+        "updated_at": "2026-01-14T22:17:30.949455"
+    },
+    {
+        "id": "7503a5d2-a15e-4c68-bc2e-92a1b30269dc",
+        "name": "Deniz",
+        "surname": "Kara",
+        "class_name": "11-B",
+        "grades": {
+            "Geography": [
+                50,
+                72,
+                70,
+                57
+            ],
+            "Literature": [
+                86,
+                60,
+                89
+            ],
+            "English": [
+                41,
+                99,
+                46
+            ],
+            "History": [
+                49,
+                69
+            ],
+            "Physics": [
+                75,
+                42,
+                63
+            ],
+            "Biology": [
+                60,
+                56,
+                74
+            ]
+        },
+        "absence_count": 14,
+        "created_at": "2026-01-14T22:17:30.949466",
+        "updated_at": "2026-01-14T22:17:30.949467"
+    },
+    {
+        "id": "7e90699f-4e57-4153-9b15-5f3a365898cc",
+        "name": "Elif",
+        "surname": "Yıldız",
+        "class_name": "12-B",
+        "grades": {
+            "Physics": [
+                84,
+                55,
+                49,
+                54
+            ],
+            "English": [
+                79,
+                99,
+                99
+            ],
+            "Literature": [
+                52,
+                92
+            ],
+            "Math": [
+                48,
+                46,
+                100
+            ],
+            "Biology": [
+                86,
+                53,
+                80,
+                94
+            ],
+            "Chemistry": [
+                62,
+                80
+            ]
+        },
+        "absence_count": 8,
+        "created_at": "2026-01-14T22:17:30.949478",
+        "updated_at": "2026-01-14T22:17:30.949479"
+    },
+    {
+        "id": "e95bb5c0-4a6b-4d2a-9eac-b7d511c15843",
+        "name": "Onur",
+        "surname": "Kara",
+        "class_name": "9-A",
+        "grades": {
+            "Chemistry": [
+                73,
+                55,
+                92,
+                48
+            ],
+            "English": [
+                78,
+                57,
+                58
+            ],
+            "History": [
+                54,
+                68,
+                54
+            ],
+            "Geography": [
+                42,
+                82,
+                66
+            ]
+        },
+        "absence_count": 1,
+        "created_at": "2026-01-14T22:17:30.949488",
+        "updated_at": "2026-01-14T22:17:30.949488"
+    },
+    {
+        "id": "be8740be-428f-4ba2-b37f-8dc08c432f00",
+        "name": "Ali",
+        "surname": "Şahin",
+        "class_name": "10-B",
+        "grades": {
+            "Chemistry": [
+                52,
+                78,
+                76
+            ],
+            "Physics": [
+                90,
+                97,
+                46
+            ],
+            "Biology": [
+                87,
+                51
+            ],
+            "Math": [
+                85,
+                90
+            ]
+        },
+        "absence_count": 8,
+        "created_at": "2026-01-14T22:17:30.949497",
+        "updated_at": "2026-01-14T22:17:30.949497"
+    },
+    {
+        "id": "03e59e00-ff45-4934-9f0f-2386d19b8762",
+        "name": "Murat",
+        "surname": "Çetin",
+        "class_name": "9-B",
+        "grades": {
+            "Physics": [
+                59,
+                99,
+                81,
+                44
+            ],
+            "Biology": [
+                74,
+                44
+            ],
+            "History": [
+                76,
+                75
+            ],
+            "Geography": [
+                71,
+                66
+            ],
+            "Literature": [
+                69,
+                74,
+                96
+            ],
+            "Chemistry": [
+                79,
+                92,
+                65,
+                48
+            ]
+        },
+        "absence_count": 13,
+        "created_at": "2026-01-14T22:17:30.949508",
+        "updated_at": "2026-01-14T22:17:30.949509"
+    },
+    {
+        "id": "f0062644-1a3a-47b2-951f-678275a4fd21",
+        "name": "Hakan",
+        "surname": "Polat",
+        "class_name": "9-B",
+        "grades": {
+            "Math": [
+                45,
+                66,
+                91
+            ],
+            "Geography": [
+                56,
+                90,
+                59
+            ],
+            "English": [
+                54,
+                43,
+                85
+            ],
+            "Biology": [
+                81,
+                56,
+                42
+            ]
+        },
+        "absence_count": 4,
+        "created_at": "2026-01-14T22:17:30.949518",
+        "updated_at": "2026-01-14T22:17:30.949519"
+    },
+    {
+        "id": "f85406a8-72c8-4695-aab9-f5854994f7d3",
+        "name": "Selin",
+        "surname": "Kılıç",
+        "class_name": "10-A",
+        "grades": {
+            "Biology": [
+                60,
+                58,
+                78
+            ],
+            "History": [
+                92,
+                74,
+                93
+            ],
+            "Chemistry": [
+                43,
+                85,
+                83
+            ],
+            "Math": [
+                63,
+                62
+            ]
+        },
+        "absence_count": 3,
+        "created_at": "2026-01-14T22:17:30.949527",
+        "updated_at": "2026-01-14T22:17:30.949528"
+    },
+    {
+        "id": "1d805407-47e1-4519-a2d8-982266d2ae99",
+        "name": "Burak",
+        "surname": "Aslan",
+        "class_name": "11-B",
+        "grades": {
+            "Math": [
+                64,
+                70
+            ],
+            "Biology": [
+                55,
+                62
+            ],
+            "History": [
+                98,
+                45
+            ],
+            "English": [
+                41,
+                76,
+                56,
+                91
+            ],
+            "Geography": [
+                80,
+                43,
+                86,
+                55
+            ],
+            "Chemistry": [
+                96,
+                47
+            ]
+        },
+        "absence_count": 15,
+        "created_at": "2026-01-14T22:17:30.949538",
+        "updated_at": "2026-01-14T22:17:30.949539"
+    },
+    {
+        "id": "d0a16b89-af7d-48ed-ac8f-fb639ed96f4e",
+        "name": "Can",
+        "surname": "Koç",
+        "class_name": "11-A",
+        "grades": {
+            "Math": [
+                98,
+                90
+            ],
+            "Geography": [
+                85,
+                57
+            ],
+            "English": [
+                41,
+                99,
+                86,
+                75
+            ],
+            "Biology": [
+                80,
+                72,
+                76
+            ],
+            "Literature": [
+                95,
+                52,
+                51
+            ],
+            "Chemistry": [
+                71,
+                87,
+                44,
+                94
+            ]
+        },
+        "absence_count": 10,
+        "created_at": "2026-01-14T22:17:30.949551",
+        "updated_at": "2026-01-14T22:17:30.949552"
+    },
+    {
+        "id": "833d4ddb-91ca-4fd2-a2c3-e965663a0ecd",
+        "name": "Mustafa",
+        "surname": "Kılıç",
+        "class_name": "9-A",
+        "grades": {
+            "Literature": [
+                68,
+                80,
+                62
+            ],
+            "Math": [
+                52,
+                42,
+                87,
+                86
+            ],
+            "Chemistry": [
+                99,
+                70
+            ],
+            "History": [
+                83,
+                75,
+                94
+            ],
+            "Geography": [
+                83,
+                63
+            ],
+            "Biology": [
+                95,
+                89,
+                100
+            ]
+        },
+        "absence_count": 7,
+        "created_at": "2026-01-14T22:17:30.949563",
+        "updated_at": "2026-01-14T22:17:30.949564"
+    },
+    {
+        "id": "9c94c2e5-2431-40f5-8bab-10f87928ce89",
+        "name": "Yusuf",
+        "surname": "Şimşek",
+        "class_name": "12-C",
+        "grades": {
+            "Literature": [
+                45,
+                48,
+                69
+            ],
+            "Biology": [
+                100,
+                97
+            ],
+            "Math": [
+                41,
+                70,
+                87
+            ],
+            "History": [
+                81,
+                78
+            ]
+        },
+        "absence_count": 6,
+        "created_at": "2026-01-14T22:17:30.949572",
+        "updated_at": "2026-01-14T22:17:30.949573"
+    },
+    {
+        "id": "b8b6826e-09e0-45b3-a308-c60d1b72c5a6",
+        "name": "Berk",
+        "surname": "Koç",
+        "class_name": "12-C",
+        "grades": {
+            "English": [
+                73,
+                76,
+                93
+            ],
+            "Biology": [
+                86,
+                79,
+                62
+            ],
+            "Physics": [
+                40,
+                48,
+                63
+            ],
+            "Geography": [
+                70,
+                72,
+                90
+            ],
+            "Literature": [
+                68,
+                60,
+                81,
+                62
+            ],
+            "Math": [
+                92,
+                72,
+                44
+            ]
+        },
+        "absence_count": 12,
+        "created_at": "2026-01-14T22:17:30.949584",
+        "updated_at": "2026-01-14T22:17:30.949585"
+    },
+    {
+        "id": "d31ac2fb-492b-4f8b-8adf-108b475db659",
+        "name": "Selin",
+        "surname": "Şimşek",
+        "class_name": "10-A",
+        "grades": {
+            "English": [
+                48,
+                48
+            ],
+            "Literature": [
+                73,
+                84
+            ],
+            "Geography": [
+                93,
+                66
+            ],
+            "Chemistry": [
+                59,
+                92
+            ],
+            "Physics": [
+                41,
+                80,
+                83,
+                98
+            ]
+        },
+        "absence_count": 11,
+        "created_at": "2026-01-14T22:17:30.949594",
+        "updated_at": "2026-01-14T22:17:30.949595"
+    },
+    {
+        "id": "ab126a45-8eee-470c-bde4-c4d7a59946f6",
+        "name": "Onur",
+        "surname": "Şimşek",
+        "class_name": "12-B",
+        "grades": {
+            "Literature": [
+                49,
+                88
+            ],
+            "Physics": [
+                50,
+                86,
+                81,
+                54
+            ],
+            "Biology": [
+                41,
+                84
+            ],
+            "English": [
+                73,
+                56,
+                63
+            ]
+        },
+        "absence_count": 13,
+        "created_at": "2026-01-14T22:17:30.949604",
+        "updated_at": "2026-01-14T22:17:30.949605"
+    },
+    {
+        "id": "07e317c1-80d0-4281-9a78-23c5a935deab",
+        "name": "Ali",
+        "surname": "Kılıç",
+        "class_name": "10-B",
+        "grades": {
+            "Chemistry": [
+                58,
+                91
+            ],
+            "English": [
+                78,
+                59,
+                60
+            ],
+            "Geography": [
+                41,
+                74,
+                46
+            ],
+            "History": [
+                56,
+                63
+            ],
+            "Math": [
+                97,
+                51
+            ],
+            "Biology": [
+                69,
+                79,
+                43,
+                84
+            ]
+        },
+        "absence_count": 5,
+        "created_at": "2026-01-14T22:17:30.949615",
+        "updated_at": "2026-01-14T22:17:30.949616"
+    },
+    {
+        "id": "8369609c-4403-4343-85ef-2b379c501ad5",
+        "name": "Ege",
+        "surname": "Yalçın",
+        "class_name": "10-A",
+        "grades": {
+            "Math": [
+                79,
+                49
+            ],
+            "Biology": [
+                88,
+                74,
+                80
+            ],
+            "Chemistry": [
+                70,
+                62,
+                60
+            ],
+            "Physics": [
+                82,
+                77,
+                85
+            ],
+            "History": [
+                51,
+                77
+            ],
+            "Literature": [
+                79,
+                95,
+                62,
+                77
+            ]
+        },
+        "absence_count": 9,
+        "created_at": "2026-01-14T22:17:30.949627",
+        "updated_at": "2026-01-14T22:17:30.949627"
+    },
+    {
+        "id": "10c38744-6345-494b-9976-151ed0cea683",
+        "name": "Ege",
+        "surname": "Arslan",
+        "class_name": "11-B",
+        "grades": {
+            "Biology": [
+                87,
+                46,
+                68,
+                61
+            ],
+            "History": [
+                82,
+                83,
+                77,
+                83,
+                11
+            ],
+            "English": [
+                40,
+                65
+            ],
+            "Literature": [
+                86,
+                66
+            ],
+            "Math": [
+                43,
+                76,
+                52
+            ]
+        },
+        "absence_count": 1,
+        "created_at": "2026-01-14T22:17:30.949638",
+        "updated_at": "2026-01-14T22:18:50.830105"
+    },
+    {
+        "id": "4670b223-b3d0-4436-9223-7645de9f1d48",
+        "name": "Murat",
+        "surname": "Kurt",
+        "class_name": "12-A",
+        "grades": {
+            "Math": [
+                88,
+                81,
+                86
+            ],
+            "Biology": [
+                50,
+                76,
+                84
+            ],
+            "Chemistry": [
+                52,
+                87
+            ],
+            "Literature": [
+                89,
+                79,
+                50
+            ]
+        },
+        "absence_count": 1,
+        "created_at": "2026-01-14T22:17:30.949648",
+        "updated_at": "2026-01-14T22:17:30.949649"
+    },
+    {
+        "id": "580fa18e-810f-4360-a9cf-05d9d643b4d0",
+        "name": "Yasin",
+        "surname": "Öztürk",
+        "class_name": "12-C",
+        "grades": {
+            "History": [
+                84,
+                57
+            ],
+            "English": [
+                94,
+                60,
+                87,
+                52
+            ],
+            "Biology": [
+                49,
+                100,
+                100,
+                99
+            ],
+            "Geography": [
+                61,
+                83,
+                45
+            ],
+            "Math": [
+                70,
+                52
+            ]
+        },
+        "absence_count": 12,
+        "created_at": "2026-01-14T22:17:30.949658",
+        "updated_at": "2026-01-14T22:17:30.949659"
+    },
+    {
+        "id": "6b751f7f-65f0-4527-be6c-c99fdb984350",
+        "name": "Fatma",
+        "surname": "Çetin",
+        "class_name": "11-A",
+        "grades": {
+            "Geography": [
+                79,
+                93,
+                91
+            ],
+            "English": [
+                68,
+                64,
+                54
+            ],
+            "History": [
+                100,
+                69,
+                98,
+                45
+            ],
+            "Math": [
+                91,
+                76,
+                61,
+                97
+            ],
+            "Literature": [
+                62,
+                54,
+                66
+            ]
+        },
+        "absence_count": 15,
+        "created_at": "2026-01-14T22:17:30.949669",
+        "updated_at": "2026-01-14T22:17:30.949670"
+    },
+    {
+        "id": "d519ce67-8ff8-4e7b-bc92-d2d03386c835",
+        "name": "Burak",
+        "surname": "Kurt",
+        "class_name": "9-A",
+        "grades": {
+            "Biology": [
+                95,
+                49,
+                96,
+                48
+            ],
+            "Literature": [
+                60,
+                65,
+                74,
+                48
+            ],
+            "Physics": [
+                93,
+                50,
+                53,
+                94
+            ],
+            "History": [
+                100,
+                63,
+                49,
+                93
+            ],
+            "Geography": [
+                51,
+                85,
+                49,
+                45
+            ],
+            "English": [
+                64,
+                76
+            ]
+        },
+        "absence_count": 2,
+        "created_at": "2026-01-14T22:17:30.949681",
+        "updated_at": "2026-01-14T22:17:30.949682"
+    },
+    {
+        "id": "d1618508-deb3-49b1-b262-59dab63829f9",
+        "name": "Deniz",
+        "surname": "Çelik",
+        "class_name": "11-A",
+        "grades": {
+            "Chemistry": [
+                98,
+                61,
+                44
+            ],
+            "Biology": [
+                63,
+                50
+            ],
+            "Math": [
+                88,
+                57,
+                57
+            ],
+            "History": [
+                48,
+                64
+            ]
+        },
+        "absence_count": 9,
+        "created_at": "2026-01-14T22:17:30.949691",
+        "updated_at": "2026-01-14T22:17:30.949692"
+    },
+    {
+        "id": "7a29ad48-717b-4908-8e4c-77a95d05a91b",
+        "name": "Sude",
+        "surname": "Özkan",
+        "class_name": "9-B",
+        "grades": {
+            "History": [
+                69,
+                70,
+                45
+            ],
+            "Physics": [
+                53,
+                43,
+                78,
+                45
+            ],
+            "Geography": [
+                53,
+                66,
+                67
+            ],
+            "Chemistry": [
+                85,
+                63,
+                97,
+                47
+            ],
+            "Math": [
+                69,
+                79,
+                98,
+                56
+            ]
+        },
+        "absence_count": 11,
+        "created_at": "2026-01-14T22:17:30.949702",
+        "updated_at": "2026-01-14T22:17:30.949703"
+    },
+    {
+        "id": "803526a8-a84c-4330-9444-82a6f5e6ec1d",
+        "name": "Oğuz",
+        "surname": "Güler",
+        "class_name": "9-A",
+        "grades": {
+            "Physics": [
+                94,
+                48
+            ],
+            "History": [
+                45,
+                73,
+                51
+            ],
+            "English": [
+                40,
+                93,
+                44,
+                93
+            ],
+            "Literature": [
+                79,
+                77
+            ]
+        },
+        "absence_count": 2,
+        "created_at": "2026-01-14T22:17:30.949711",
+        "updated_at": "2026-01-14T22:17:30.949712"
+    },
+    {
+        "id": "cd833d52-4e33-4f5c-b2f6-92a2cffbd830",
+        "name": "Ayşe",
+        "surname": "Özdemir",
+        "class_name": "11-A",
+        "grades": {
+            "Physics": [
+                87,
+                51,
+                78
+            ],
+            "Math": [
+                72,
+                92
+            ],
+            "Geography": [
+                76,
+                77
+            ],
+            "Chemistry": [
+                64,
+                65
+            ],
+            "Biology": [
+                77,
+                65,
+                91,
+                51
+            ]
+        },
+        "absence_count": 3,
+        "created_at": "2026-01-14T22:17:30.949721",
+        "updated_at": "2026-01-14T22:17:30.949722"
+    },
+    {
+        "id": "cc3d50f2-1e55-4a0f-8fba-8c7cc921ce0d",
+        "name": "Ege",
+        "surname": "Yılmaz",
+        "class_name": "9-B",
+        "grades": {
+            "Chemistry": [
+                73,
+                71,
+                66,
+                67
+            ],
+            "Literature": [
+                98,
+                48
+            ],
+            "Geography": [
+                48,
+                85,
+                50
+            ],
+            "Biology": [
+                76,
+                61,
+                41
+            ]
+        },
+        "absence_count": 12,
+        "created_at": "2026-01-14T22:17:30.949731",
+        "updated_at": "2026-01-14T22:17:30.949732"
+    },
+    {
+        "id": "82e06415-acb7-4a6a-931a-b5b1d1b1c7b7",
+        "name": "Fatma",
+        "surname": "Güneş",
+        "class_name": "11-B",
+        "grades": {
+            "English": [
+                63,
+                76,
+                74,
+                92
+            ],
+            "Math": [
+                42,
+                75
+            ],
+            "Physics": [
+                47,
+                96
+            ],
+            "Biology": [
+                74,
+                89
+            ],
+            "Chemistry": [
+                56,
+                63,
+                52
+            ]
+        },
+        "absence_count": 7,
+        "created_at": "2026-01-14T22:17:30.949742",
+        "updated_at": "2026-01-14T22:17:30.949742"
+    },
+    {
+        "id": "f04fe23c-0fa4-41bf-b135-d1356720e473",
+        "name": "Gökhan",
+        "surname": "Özdemir",
+        "class_name": "12-C",
+        "grades": {
+            "English": [
+                40,
+                42,
+                72
+            ],
+            "Biology": [
+                89,
+                51,
+                57
+            ],
+            "Physics": [
+                77,
+                67,
+                95
+            ],
+            "History": [
+                80,
+                48,
+                43,
+                72
+            ],
+            "Math": [
+                95,
+                88,
+                70,
+                70
+            ]
+        },
+        "absence_count": 12,
+        "created_at": "2026-01-14T22:17:30.949753",
+        "updated_at": "2026-01-14T22:17:30.949754"
+    },
+    {
+        "id": "d40ba038-6c38-4370-893b-99f5b0b32951",
+        "name": "Umut",
+        "surname": "Taş",
+        "class_name": "12-B",
+        "grades": {
+            "Literature": [
+                88,
+                43
+            ],
+            "Chemistry": [
+                98,
+                87,
+                80
+            ],
+            "Physics": [
+                76,
+                74,
+                90
+            ],
+            "History": [
+                84,
+                45,
+                89
+            ],
+            "Biology": [
+                45,
+                56,
+                84
+            ]
+        },
+        "absence_count": 3,
+        "created_at": "2026-01-14T22:17:30.949763",
+        "updated_at": "2026-01-14T22:17:30.949764"
     }
 ]
