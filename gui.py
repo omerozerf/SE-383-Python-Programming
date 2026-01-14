@@ -340,21 +340,12 @@ class StudentManagerApp:
         student = self.manager.get_student(s_id)
         
         # Custom Dialog for nicer look
-        popup = self._create_popup_window("Attendance", 300, 250)
+        popup = self._create_popup_window("Attendance", 300, 400)
         content = ttk.Frame(popup, padding=20)
         content.pack(fill=tk.BOTH, expand=True)
-        
-        ttk.Label(content, text=f"Update Absence", style="SubHeader.TLabel").pack(pady=(0, 10))
-        ttk.Label(content, text=f"Current Total: {student.absence_count}", foreground="#7f8c8d").pack(pady=(0, 20))
-        
-        val_frame = ttk.Frame(content)
-        val_frame.pack()
-        
+
         days_var = tk.StringVar(value="1")
-        spinbox = ttk.Spinbox(val_frame, from_=-20, to=20, textvariable=days_var, width=10)
-        spinbox.pack(pady=5)
-        ttk.Label(val_frame, text="(Use negative to reduce)").pack(pady=(0, 15), font=("Segoe UI", 8))
-        
+
         def commit():
             try:
                 amount = int(days_var.get())
@@ -366,7 +357,19 @@ class StudentManagerApp:
             except ValueError:
                 messagebox.showerror("Error", "Invalid number.")
 
-        ttk.Button(content, text="Save", style="Accent.TButton", command=commit).pack(fill=tk.X)
+        # Pack button FIRST at the BOTTOM to ensure it's visible
+        ttk.Button(content, text="Update Absence", style="Accent.TButton", command=commit).pack(side=tk.BOTTOM, fill=tk.X, pady=(20, 0))
+
+        # Pack content top-down
+        ttk.Label(content, text=f"Update Absence", style="SubHeader.TLabel").pack(side=tk.TOP, pady=(0, 10))
+        ttk.Label(content, text=f"Current Total: {student.absence_count}", foreground="#7f8c8d").pack(side=tk.TOP, pady=(0, 20))
+        
+        val_frame = ttk.Frame(content)
+        val_frame.pack(side=tk.TOP)
+        
+        spinbox = ttk.Spinbox(val_frame, from_=-20, to=20, textvariable=days_var, width=10)
+        spinbox.pack(pady=5)
+        ttk.Label(val_frame, text="(Use negative to reduce)").pack(pady=(0, 15), font=("Segoe UI", 8))
 
     def backup_data(self):
         res = self.manager.backup_data()
