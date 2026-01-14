@@ -366,7 +366,7 @@ class StudentManagerApp:
             except ValueError:
                 messagebox.showerror("Error", "Invalid number.")
 
-        ttk.Button(content, text="Update", style="Accent.TButton", command=commit).pack(fill=tk.X)
+        ttk.Button(content, text="Save", style="Accent.TButton", command=commit).pack(fill=tk.X)
 
     def backup_data(self):
         res = self.manager.backup_data()
