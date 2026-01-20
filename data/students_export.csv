@@ -1,10 +1,10 @@
 ID,Name,Surname,Class,Absence,Grades
-d38200d2-5bb5-4520-af43-a755e96b7d8b,Aysedadad,Demir,11B,2,"Math: [95]; Fen: [50]"
+d38200d2-5bb5-4520-af43-a755e96b7d8b,Aysedadad,Demir,11B,2,"Math: [95]; Fen: [50]; X: [100]"
 919431a4-eea0-4a9c-8a4c-8bbb8dc2aea0,Mehmet,Kaya,10A,4,"History: [70]"
-977f7106-766e-4f66-a865-ecdec460f02c,Berk,Demir,12-B,6,"Physics: [51, 91]; English: [98, 46]; Literature: [40, 53]; Biology: [46, 56, 78, 63]"
+977f7106-766e-4f66-a865-ecdec460f02c,Berk,Demir,12-B,22,"Physics: [51, 91]; English: [98, 46]; Literature: [40, 53]; Biology: [46, 56, 78, 63]"
 c42d3ca1-0b10-4d13-907f-20b1abf77c6a,Emre,Arslan,12-A,4,"English: [73, 63]; Biology: [82, 98, 46]; Physics: [90, 94, 98, 84]; History: [50, 75, 72]; Literature: [90, 55, 46, 74]; Math: [47, 81, 74, 52]"
 27c79845-2c52-420f-abf2-3fb9d099cb4e,Ayşe,Şimşek,10-A,0,"Biology: [96, 93, 90, 79]; Math: [44, 50, 98]; Geography: [94, 95]; English: [69, 82, 97]"
-cc0ee8b5-b04a-4178-8929-5212428e9d7b,Ahmet,Taş,10-A,11,"Literature: [84, 57, 88]; Math: [49, 47, 95, 88]; Physics: [43, 97]; English: [71, 85, 81]; Chemistry: [54, 91, 64, 57]; Geography: [91, 85, 66]"
+cc0ee8b5-b04a-4178-8929-5212428e9d7b,Ahmet,Taş,10-A,11,"Literature: [84, 57, 88]; Math: [49, 47, 95, 88]; Physics: [43, 97]; English: [71, 85, 81, 10]; Chemistry: [54, 91, 64, 57]; Geography: [91, 85, 66]"
 59f60870-d1fd-491d-b5d1-5cd7b9dd1ab8,Zeynep,Güneş,10-B,11,"Geography: [85, 99, 71]; Chemistry: [45, 71, 77, 79]; History: [91, 83]; Physics: [47, 94]; Math: [65, 83]"
 80f4a359-9c57-4374-a4c1-02bc9b687d19,Barış,Erdoğan,12-B,10,"Physics: [58, 97]; English: [46, 77, 79]; Literature: [62, 90, 51, 52]; Math: [99, 42]"
 6be72079-706a-4ec0-9a58-7dfcc3f8d32f,Mehmet,Kara,12-C,5,"Physics: [74, 52, 76]; Literature: [87, 59, 93, 80]; English: [82, 48]; Math: [63, 53]; Chemistry: [50, 65, 79]; Geography: [52, 80]"
